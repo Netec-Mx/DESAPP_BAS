@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="650" viewBox="0 0 1500 650">
+  <rect width="1500" height="650" fill="#f4f7fb"/>
+  <rect width="1500" height="12" fill="#fbb000"/>
+  <text x="70" y="80" font-family="Arial, sans-serif" font-size="45" font-weight="700" fill="#003b71">Archivos esenciales</text>
+  <text x="70" y="122" font-family="Arial, sans-serif" font-size="24" fill="#44546a">Explora solo lo necesario para personalizar el componente raíz</text>
+  <rect x="70" y="160" width="1360" height="430" rx="18" fill="#ffffff" stroke="#2c75b9" stroke-width="3"/>
+  <g font-family="Consolas, monospace" font-size="27" fill="#26384a">
+    <text x="120" y="220" font-weight="700" fill="#003b71">hola-mundo/</text>
+    <text x="160" y="268">├── angular.json</text>
+    <text x="160" y="316">├── package.json</text>
+    <text x="160" y="364">└── src/</text>
+    <text x="215" y="390">├── main.ts</text>
+    <text x="215" y="430">└── app/</text>
+    <text x="270" y="470">├── app.component.ts</text>
+    <text x="270" y="510">├── app.component.html</text>
+    <text x="270" y="550">└── app.component.css</text>
+  </g>
+  <rect x="790" y="205" width="560" height="245" rx="14" fill="#eaf3fa"/>
+  <text x="830" y="260" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#003b71">Foco del ejercicio</text>
+  <text x="830" y="314" font-family="Arial, sans-serif" font-size="24" fill="#26384a">1. Clase del componente</text>
+  <text x="830" y="358" font-family="Arial, sans-serif" font-size="24" fill="#26384a">2. Plantilla HTML</text>
+  <text x="830" y="402" font-family="Arial, sans-serif" font-size="24" fill="#26384a">3. Estilo CSS mínimo</text>
+  <text x="70" y="630" font-family="Arial, sans-serif" font-size="21" fill="#56697d">No necesitas estudiar todos los archivos generados para completar Hola Mundo.</text>
+</svg>

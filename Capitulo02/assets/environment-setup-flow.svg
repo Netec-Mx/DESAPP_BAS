@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560">
+  <rect width="1600" height="560" fill="#f4f7fb"/>
+  <rect width="1600" height="12" fill="#fbb000"/>
+  <text x="70" y="86" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#003b71">Preparación del entorno Angular 21</text>
+  <text x="70" y="128" font-family="Arial, sans-serif" font-size="25" fill="#44546a">Instala únicamente lo necesario y verifica cada resultado</text>
+  <line x1="210" y1="305" x2="1390" y2="305" stroke="#2c75b9" stroke-width="8"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <circle cx="210" cy="305" r="58" fill="#00447c"/><text x="210" y="322" font-size="42" font-weight="700" fill="#fff">1</text>
+    <text x="210" y="210" font-size="30" font-weight="700" fill="#003b71">COMPROBAR</text><text x="210" y="402" font-size="24" fill="#26384a">Versiones actuales</text>
+    <circle cx="505" cy="305" r="58" fill="#146cb0"/><text x="505" y="322" font-size="42" font-weight="700" fill="#fff">2</text>
+    <text x="505" y="210" font-size="30" font-weight="700" fill="#003b71">NODE.JS 22</text><text x="505" y="402" font-size="24" fill="#26384a">Incluye npm</text>
+    <circle cx="800" cy="305" r="58" fill="#2b83c6"/><text x="800" y="322" font-size="42" font-weight="700" fill="#fff">3</text>
+    <text x="800" y="210" font-size="30" font-weight="700" fill="#003b71">ANGULAR CLI 21</text><text x="800" y="402" font-size="24" fill="#26384a">Versión explícita</text>
+    <circle cx="1095" cy="305" r="58" fill="#4b9dd4"/><text x="1095" y="322" font-size="42" font-weight="700" fill="#fff">4</text>
+    <text x="1095" y="210" font-size="30" font-weight="700" fill="#003b71">VS CODE</text><text x="1095" y="402" font-size="24" fill="#26384a">Language Service</text>
+    <circle cx="1390" cy="305" r="58" fill="#fbb000"/><text x="1390" y="322" font-size="42" font-weight="700" fill="#003b71">5</text>
+    <text x="1390" y="210" font-size="30" font-weight="700" fill="#003b71">VALIDAR</text><text x="1390" y="402" font-size="24" fill="#26384a">Una evidencia</text>
+  </g>
+  <text x="70" y="510" font-family="Arial, sans-serif" font-size="21" fill="#56697d">Windows 11 + PowerShell · La creación del proyecto se realiza en la práctica siguiente.</text>
+</svg>

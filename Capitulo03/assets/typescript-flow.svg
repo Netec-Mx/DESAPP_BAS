@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="560" viewBox="0 0 1500 560">
+  <rect width="1500" height="560" fill="#f4f7fb"/>
+  <rect width="1500" height="12" fill="#fbb000"/>
+  <text x="70" y="82" font-family="Arial, sans-serif" font-size="45" font-weight="700" fill="#003b71">Del código TypeScript al resultado</text>
+  <text x="70" y="124" font-family="Arial, sans-serif" font-size="24" fill="#44546a">Un solo archivo, una compilación y una salida verificable</text>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <rect x="85" y="190" width="330" height="220" rx="18" fill="#fff" stroke="#2c75b9" stroke-width="3"/>
+    <text x="250" y="250" font-size="31" font-weight="700" fill="#003b71">1. ESCRIBIR</text>
+    <text x="250" y="315" font-family="Consolas, monospace" font-size="28" fill="#146cb0">fundamentos.ts</text>
+    <text x="250" y="360" font-size="22" fill="#44546a">Tipos + lógica</text>
+    <path d="M430 300 H535" stroke="#2c75b9" stroke-width="10"/><path d="M535 300 l-28 -22 v44z" fill="#2c75b9"/>
+    <rect x="550" y="190" width="400" height="220" rx="18" fill="#eaf3fa" stroke="#2c75b9" stroke-width="3"/>
+    <text x="750" y="250" font-size="31" font-weight="700" fill="#003b71">2. COMPILAR</text>
+    <text x="750" y="315" font-family="Consolas, monospace" font-size="27" fill="#146cb0">npx tsc</text>
+    <text x="750" y="360" font-size="22" fill="#44546a">Valida y genera JS</text>
+    <path d="M965 300 H1070" stroke="#2c75b9" stroke-width="10"/><path d="M1070 300 l-28 -22 v44z" fill="#2c75b9"/>
+    <rect x="1085" y="190" width="330" height="220" rx="18" fill="#fff" stroke="#fbb000" stroke-width="4"/>
+    <text x="1250" y="250" font-size="31" font-weight="700" fill="#003b71">3. EJECUTAR</text>
+    <text x="1250" y="315" font-family="Consolas, monospace" font-size="27" fill="#146cb0">node ...js</text>
+    <text x="1250" y="360" font-size="22" fill="#44546a">Comprueba la salida</text>
+  </g>
+  <text x="70" y="505" font-family="Arial, sans-serif" font-size="21" fill="#56697d">TypeScript detecta errores antes de que el programa se ejecute.</text>
+</svg>

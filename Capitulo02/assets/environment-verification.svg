@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="660" viewBox="0 0 1500 660">
+  <rect width="1500" height="660" fill="#f4f7fb"/>
+  <rect width="1500" height="12" fill="#fbb000"/>
+  <text x="70" y="82" font-family="Arial, sans-serif" font-size="45" font-weight="700" fill="#003b71">Evidencia final: qué debes comprobar</text>
+  <rect x="70" y="125" width="1360" height="455" rx="18" fill="#101820"/>
+  <g font-family="Consolas, monospace" font-size="28">
+    <text x="115" y="190" fill="#d7e3ef">PS C:\&gt; <tspan fill="#fbb000">node --version</tspan></text>
+    <text x="115" y="232" fill="#7ee787">v22.x.x</text>
+    <text x="115" y="292" fill="#d7e3ef">PS C:\&gt; <tspan fill="#fbb000">npm --version</tspan></text>
+    <text x="115" y="334" fill="#7ee787">10.x.x</text>
+    <text x="115" y="394" fill="#d7e3ef">PS C:\&gt; <tspan fill="#fbb000">ng version</tspan></text>
+    <text x="115" y="436" fill="#7ee787">Angular CLI: 21.x.x</text>
+    <text x="760" y="436" fill="#7ee787">Node: 22.x.x</text>
+    <text x="115" y="496" fill="#d7e3ef">PS C:\&gt; <tspan fill="#fbb000">code --version</tspan></text>
+    <text x="115" y="538" fill="#7ee787">versión instalada</text>
+  </g>
+  <text x="70" y="625" font-family="Arial, sans-serif" font-size="22" fill="#56697d">Los valores x representan el parche instalado; no deben copiarse literalmente.</text>
+</svg>

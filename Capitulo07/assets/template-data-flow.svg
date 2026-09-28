@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="t d">
+  <title id="t">Flujo de datos entre componente y template</title><desc id="d">Bindings conectan el estado del componente con el template y los eventos regresan acciones al componente.</desc>
+  <rect width="1200" height="420" rx="28" fill="#f5f7fb"/>
+  <text x="600" y="55" text-anchor="middle" font-family="Arial" font-size="31" font-weight="700" fill="#17213a">Componente y template trabajan juntos</text>
+  <rect x="70" y="115" width="330" height="205" rx="22" fill="#fff" stroke="#5b4bdb" stroke-width="4"/>
+  <text x="235" y="172" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#17213a">AppComponent</text>
+  <text x="235" y="220" text-anchor="middle" font-family="Consolas" font-size="21" fill="#5b4bdb">estado + métodos</text>
+  <text x="235" y="266" text-anchor="middle" font-family="Arial" font-size="20" fill="#405064">empleados · búsqueda</text>
+  <rect x="800" y="115" width="330" height="205" rx="22" fill="#fff" stroke="#168a8a" stroke-width="4"/>
+  <text x="965" y="172" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#17213a">Template HTML</text>
+  <text x="965" y="220" text-anchor="middle" font-family="Consolas" font-size="21" fill="#087272">vista + interacción</text>
+  <text x="965" y="266" text-anchor="middle" font-family="Arial" font-size="20" fill="#405064">tabla · formulario</text>
+  <line x1="400" y1="175" x2="800" y2="175" stroke="#5b4bdb" stroke-width="7"/><polygon points="800,175 773,158 773,192" fill="#5b4bdb"/>
+  <text x="600" y="150" text-anchor="middle" font-family="Arial" font-size="20" font-weight="700" fill="#5b4bdb">datos y propiedades</text>
+  <line x1="800" y1="265" x2="400" y2="265" stroke="#e13a78" stroke-width="7"/><polygon points="400,265 427,248 427,282" fill="#e13a78"/>
+  <text x="600" y="304" text-anchor="middle" font-family="Arial" font-size="20" font-weight="700" fill="#a51f55">eventos y cambios</text>
+  <text x="600" y="374" text-anchor="middle" font-family="Arial" font-size="22" fill="#405064">Interpolación y bindings mantienen sincronizada la interfaz.</text>
+</svg>

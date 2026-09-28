@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Flujo de comunicación mediante Output</title>
+  <desc id="desc">Un clic en UsuarioComponent emite un saludo que AppComponent recibe.</desc>
+  <rect width="1200" height="420" rx="28" fill="#f5f7fb"/>
+  <text x="600" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#202a44">Evento del hijo hacia el padre</text>
+  <rect x="55" y="112" width="285" height="210" rx="22" fill="#ffffff" stroke="#5b4bdb" stroke-width="4"/>
+  <text x="197" y="168" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#202a44">UsuarioComponent</text>
+  <rect x="105" y="205" width="185" height="62" rx="12" fill="#5b4bdb"/>
+  <text x="197" y="244" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">Clic en botón</text>
+  <line x1="340" y1="217" x2="520" y2="217" stroke="#e13a78" stroke-width="8"/>
+  <polygon points="520,217 492,199 492,235" fill="#e13a78"/>
+  <rect x="520" y="150" width="260" height="134" rx="20" fill="#fff0f6" stroke="#e13a78" stroke-width="4"/>
+  <text x="650" y="204" text-anchor="middle" font-family="Consolas, monospace" font-size="24" font-weight="700" fill="#a51f55">saludar.emit(...)</text>
+  <text x="650" y="244" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#4a3950">EventEmitter&lt;string&gt;</text>
+  <line x1="780" y1="217" x2="860" y2="217" stroke="#e13a78" stroke-width="8"/>
+  <polygon points="860,217 832,199 832,235" fill="#e13a78"/>
+  <rect x="860" y="112" width="285" height="210" rx="22" fill="#ffffff" stroke="#168a8a" stroke-width="4"/>
+  <text x="1002" y="168" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#202a44">AppComponent</text>
+  <text x="1002" y="218" text-anchor="middle" font-family="Consolas, monospace" font-size="21" fill="#087272">mostrarSaludo</text>
+  <text x="1002" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#405064">Actualiza el mensaje</text>
+  <text x="600" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#405064">El hijo notifica; el padre decide cómo actualizar su estado.</text>
+</svg>

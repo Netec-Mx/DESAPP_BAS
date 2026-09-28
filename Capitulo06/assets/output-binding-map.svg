@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Anatomía del event binding</title>
+  <desc id="desc">Relaciona la salida saludar con el manejador mostrarSaludo y el valor event.</desc>
+  <rect width="1200" height="360" rx="28" fill="#f5f7fb"/>
+  <text x="600" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#202a44">Anatomía del enlace de evento</text>
+  <rect x="76" y="112" width="1048" height="104" rx="18" fill="#202a44"/>
+  <text x="600" y="178" text-anchor="middle" font-family="Consolas, monospace" font-size="34" fill="#ffffff">(saludar)="mostrarSaludo($event)"</text>
+  <line x1="305" y1="217" x2="305" y2="270" stroke="#5b4bdb" stroke-width="5"/>
+  <polygon points="305,282 294,262 316,262" fill="#5b4bdb"/>
+  <text x="305" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#5b4bdb">Salida del hijo</text>
+  <line x1="665" y1="217" x2="665" y2="270" stroke="#168a8a" stroke-width="5"/>
+  <polygon points="665,282 654,262 676,262" fill="#168a8a"/>
+  <text x="665" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#087272">Método del padre</text>
+  <line x1="891" y1="217" x2="891" y2="270" stroke="#e13a78" stroke-width="5"/>
+  <polygon points="891,282 880,262 902,262" fill="#e13a78"/>
+  <text x="891" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#a51f55">Dato emitido</text>
+</svg>

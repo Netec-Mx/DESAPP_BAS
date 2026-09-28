@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="560" viewBox="0 0 1500 560">
+  <rect width="1500" height="560" fill="#f4f7fb"/>
+  <rect width="1500" height="12" fill="#fbb000"/>
+  <text x="70" y="82" font-family="Arial, sans-serif" font-size="45" font-weight="700" fill="#003b71">Cómo se integra el componente</text>
+  <rect x="90" y="165" width="560" height="275" rx="18" fill="#fff" stroke="#2c75b9" stroke-width="3"/>
+  <text x="370" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#003b71">AppComponent</text>
+  <text x="145" y="295" font-family="Consolas, monospace" font-size="25" fill="#26384a">imports: [UsuarioComponent]</text>
+  <text x="145" y="360" font-family="Consolas, monospace" font-size="25" fill="#146cb0">&lt;app-usuario&gt;</text>
+  <path d="M675 300 H825" stroke="#2c75b9" stroke-width="12"/><path d="M825 300 l-32 -25 v50z" fill="#2c75b9"/>
+  <rect x="850" y="165" width="560" height="275" rx="18" fill="#eaf3fa" stroke="#fbb000" stroke-width="4"/>
+  <text x="1130" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#003b71">UsuarioComponent</text>
+  <text x="910" y="295" font-family="Consolas, monospace" font-size="25" fill="#26384a">nombre = 'Tu nombre'</text>
+  <text x="910" y="360" font-family="Consolas, monospace" font-size="25" fill="#146cb0">{{ nombre }}</text>
+  <text x="70" y="510" font-family="Arial, sans-serif" font-size="21" fill="#56697d">Importar la clase habilita el selector dentro del template raíz.</text>
+</svg>

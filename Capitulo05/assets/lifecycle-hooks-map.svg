@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="620" viewBox="0 0 1500 620">
+  <rect width="1500" height="620" fill="#f4f7fb"/><rect width="1500" height="12" fill="#fbb000"/>
+  <text x="70" y="82" font-family="Arial" font-size="45" font-weight="700" fill="#003b71">Tres momentos, tres responsabilidades</text>
+  <g font-family="Arial">
+    <rect x="70" y="155" width="430" height="330" rx="18" fill="#fff" stroke="#2c75b9" stroke-width="3"/><text x="105" y="220" font-size="30" font-weight="700" fill="#003b71">ngOnInit</text><text x="105" y="280" font-size="23" fill="#26384a">Inicializa estado o tareas</text><text x="105" y="320" font-size="23" fill="#26384a">después de crear la instancia.</text><text x="105" y="400" font-family="Consolas" font-size="22" fill="#146cb0">iniciar intervalo</text>
+    <rect x="535" y="155" width="430" height="330" rx="18" fill="#eaf3fa" stroke="#2c75b9" stroke-width="3"/><text x="570" y="220" font-size="30" font-weight="700" fill="#003b71">ngAfterViewInit</text><text x="570" y="280" font-size="23" fill="#26384a">La vista y sus elementos</text><text x="570" y="320" font-size="23" fill="#26384a">ya están disponibles.</text><text x="570" y="400" font-family="Consolas" font-size="22" fill="#146cb0">confirmar vista</text>
+    <rect x="1000" y="155" width="430" height="330" rx="18" fill="#fff" stroke="#fbb000" stroke-width="4"/><text x="1035" y="220" font-size="30" font-weight="700" fill="#003b71">ngOnDestroy</text><text x="1035" y="280" font-size="23" fill="#26384a">Libera recursos antes de</text><text x="1035" y="320" font-size="23" fill="#26384a">eliminar el componente.</text><text x="1035" y="400" font-family="Consolas" font-size="22" fill="#146cb0">clearInterval</text>
+  </g>
+  <text x="70" y="565" font-family="Arial" font-size="21" fill="#56697d">El hook correcto depende del momento en que la operación debe ocurrir.</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc">
+  <title id="title">Cinco hitos de la evolución de Angular</title>
+  <desc id="desc">Línea de tiempo desde AngularJS hasta Angular 21 con cinco hitos de aprendizaje.</desc>
+  <rect width="1600" height="500" fill="#ffffff"/>
+  <rect x="0" y="0" width="1600" height="18" fill="#fdb913"/>
+  <text x="70" y="85" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#003b71">Evolución esencial de Angular</text>
+  <text x="70" y="125" font-family="Arial, sans-serif" font-size="23" fill="#4b5563">Cinco hitos para comprender el contexto de Angular 21</text>
+  <line x1="155" y1="255" x2="1445" y2="255" stroke="#2b74b9" stroke-width="10" stroke-linecap="round"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(160 255)">
+      <circle r="34" fill="#003b71"/><text y="9" font-size="25" font-weight="700" fill="#fff">1</text>
+      <text y="85" font-size="25" font-weight="700" fill="#003b71">AngularJS 1.x</text><text y="120" font-size="19" fill="#374151">Antecedente MVC</text>
+    </g>
+    <g transform="translate(480 255)">
+      <circle r="34" fill="#1769aa"/><text y="9" font-size="25" font-weight="700" fill="#fff">2</text>
+      <text y="-75" font-size="25" font-weight="700" fill="#003b71">Angular 2</text><text y="-42" font-size="19" fill="#374151">Componentes + TypeScript</text>
+    </g>
+    <g transform="translate(800 255)">
+      <circle r="34" fill="#2b84c6"/><text y="9" font-size="25" font-weight="700" fill="#fff">3</text>
+      <text y="85" font-size="25" font-weight="700" fill="#003b71">Angular 14–15</text><text y="120" font-size="19" fill="#374151">Standalone</text>
+    </g>
+    <g transform="translate(1120 255)">
+      <circle r="34" fill="#4b9bd3"/><text y="9" font-size="25" font-weight="700" fill="#fff">4</text>
+      <text y="-75" font-size="25" font-weight="700" fill="#003b71">Angular 16–17</text><text y="-42" font-size="19" fill="#374151">Signals + control flow</text>
+    </g>
+    <g transform="translate(1440 255)">
+      <circle r="42" fill="#fdb913"/><text y="10" font-size="27" font-weight="700" fill="#003b71">5</text>
+      <text y="85" font-size="25" font-weight="700" fill="#003b71">Angular 21</text><text y="120" font-size="19" fill="#374151">Objetivo del curso</text>
+    </g>
+  </g>
+  <rect x="70" y="445" width="1460" height="2" fill="#d8dee6"/>
+  <text x="70" y="478" font-family="Arial, sans-serif" font-size="17" fill="#667085">Consulta las fuentes oficiales para completar el impacto de cada hito.</text>
+</svg>

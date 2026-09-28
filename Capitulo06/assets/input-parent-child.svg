@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="560" viewBox="0 0 1500 560">
+  <rect width="1500" height="560" fill="#f4f7fb"/><rect width="1500" height="12" fill="#fbb000"/>
+  <text x="70" y="82" font-family="Arial" font-size="45" font-weight="700" fill="#003b71">Comunicación padre → hijo</text>
+  <text x="70" y="124" font-family="Arial" font-size="24" fill="#44546a">El padre conserva el dato; el hijo lo recibe y lo presenta</text>
+  <rect x="100" y="190" width="480" height="230" rx="18" fill="#fff" stroke="#2c75b9" stroke-width="3"/>
+  <text x="340" y="255" text-anchor="middle" font-family="Arial" font-size="33" font-weight="700" fill="#003b71">AppComponent</text>
+  <text x="155" y="325" font-family="Consolas" font-size="24" fill="#26384a">nombreUsuario</text>
+  <text x="155" y="375" font-family="Consolas" font-size="22" fill="#146cb0">[nombre]="nombreUsuario"</text>
+  <path d="M610 305 H880" stroke="#2c75b9" stroke-width="12"/><path d="M880 305 l-35 -27 v54z" fill="#2c75b9"/>
+  <text x="745" y="275" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#003b71">@Input</text>
+  <rect x="910" y="190" width="480" height="230" rx="18" fill="#eaf3fa" stroke="#fbb000" stroke-width="4"/>
+  <text x="1150" y="255" text-anchor="middle" font-family="Arial" font-size="33" font-weight="700" fill="#003b71">UsuarioComponent</text>
+  <text x="965" y="325" font-family="Consolas" font-size="24" fill="#26384a">@Input nombre</text>
+  <text x="965" y="375" font-family="Consolas" font-size="22" fill="#146cb0">{{ nombre }}</text>
+  <text x="70" y="510" font-family="Arial" font-size="21" fill="#56697d">El dato fluye en una sola dirección y el hijo no necesita conocer al padre.</text>
+</svg>

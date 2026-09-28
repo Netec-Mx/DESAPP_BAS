@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="560" viewBox="0 0 1500 560">
+  <rect width="1500" height="560" fill="#f4f7fb"/>
+  <rect width="1500" height="12" fill="#fbb000"/>
+  <text x="70" y="82" font-family="Arial, sans-serif" font-size="45" font-weight="700" fill="#003b71">Del componente al navegador</text>
+  <text x="70" y="124" font-family="Arial, sans-serif" font-size="24" fill="#44546a">Genera, define, integra y comprueba</text>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <circle cx="185" cy="300" r="78" fill="#00447c"/><text x="185" y="291" font-size="29" font-weight="700" fill="#fff">GENERAR</text><text x="185" y="330" font-size="22" fill="#fff">ng generate</text>
+    <path d="M278 300 H405" stroke="#2c75b9" stroke-width="10"/><path d="M405 300 l-28 -22 v44z" fill="#2c75b9"/>
+    <circle cx="505" cy="300" r="78" fill="#146cb0"/><text x="505" y="291" font-size="29" font-weight="700" fill="#fff">DEFINIR</text><text x="505" y="330" font-size="22" fill="#fff">nombre</text>
+    <path d="M598 300 H725" stroke="#2c75b9" stroke-width="10"/><path d="M725 300 l-28 -22 v44z" fill="#2c75b9"/>
+    <circle cx="825" cy="300" r="78" fill="#2b83c6"/><text x="825" y="291" font-size="29" font-weight="700" fill="#fff">MOSTRAR</text><text x="825" y="330" font-size="22" fill="#fff">interpolación</text>
+    <path d="M918 300 H1045" stroke="#2c75b9" stroke-width="10"/><path d="M1045 300 l-28 -22 v44z" fill="#2c75b9"/>
+    <circle cx="1145" cy="300" r="78" fill="#4b9dd4"/><text x="1145" y="291" font-size="29" font-weight="700" fill="#fff">USAR</text><text x="1145" y="330" font-size="22" fill="#fff">selector</text>
+    <path d="M1238 300 H1330" stroke="#2c75b9" stroke-width="10"/><path d="M1330 300 l-28 -22 v44z" fill="#2c75b9"/>
+    <circle cx="1390" cy="300" r="62" fill="#fbb000"/><text x="1390" y="309" font-size="25" font-weight="700" fill="#003b71">VER</text>
+  </g>
+  <text x="70" y="505" font-family="Arial, sans-serif" font-size="21" fill="#56697d">Un componente standalone declara explícitamente las dependencias que utiliza.</text>
+</svg>

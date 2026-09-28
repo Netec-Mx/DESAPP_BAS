@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="720" viewBox="0 0 1500 720">
+  <rect width="1500" height="720" fill="#f4f7fb"/>
+  <rect width="1500" height="12" fill="#fbb000"/>
+  <text x="70" y="80" font-family="Arial, sans-serif" font-size="45" font-weight="700" fill="#003b71">Resultado esperado</text>
+  <rect x="70" y="125" width="1360" height="505" rx="18" fill="#fff" stroke="#c8d4df" stroke-width="3"/>
+  <rect x="70" y="125" width="1360" height="70" rx="18" fill="#e7edf3"/>
+  <circle cx="112" cy="160" r="10" fill="#dc3545"/><circle cx="145" cy="160" r="10" fill="#fbb000"/><circle cx="178" cy="160" r="10" fill="#2aa745"/>
+  <rect x="240" y="142" width="730" height="38" rx="18" fill="#fff"/>
+  <text x="270" y="169" font-family="Arial, sans-serif" font-size="20" fill="#44546a">http://localhost:4200</text>
+  <text x="750" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#003b71">Mi primera aplicación Angular</text>
+  <rect x="490" y="345" width="520" height="175" rx="10" fill="#fff" stroke="#d9e1e8" stroke-width="2"/>
+  <rect x="490" y="345" width="8" height="175" fill="#fbb000"/>
+  <text x="550" y="410" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#003b71">Perfil de usuario</text>
+  <text x="550" y="468" font-family="Arial, sans-serif" font-size="25" fill="#26384a">Nombre: <tspan font-weight="700">Tu nombre</tspan></text>
+  <text x="70" y="685" font-family="Arial, sans-serif" font-size="21" fill="#56697d">La evidencia real debe sustituir “Tu nombre” por el nombre del participante.</text>
+</svg>
