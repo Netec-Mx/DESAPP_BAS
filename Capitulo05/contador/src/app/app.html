@@ -1,0 +1,16 @@
+<main class="contador-pagina">
+  <header class="contador-encabezado">
+    <div>
+      <h1>Contador en Angular</h1>
+      <p class="contador-subtitulo">Ciclo de vida de un componente</p>
+    </div>
+
+    <button type="button" (click)="mostrarContador = !mostrarContador">
+      {{ mostrarContador ? 'Ocultar contador' : 'Mostrar contador' }}
+    </button>
+  </header>
+
+  @if (mostrarContador) {
+    <app-contador></app-contador>
+  }
+</main>

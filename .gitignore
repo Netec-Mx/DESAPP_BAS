@@ -1,0 +1,7 @@
+# Dependencias de npm
+node_modules/
+
+# Archivos generados por Angular y las pruebas
+dist/
+**/.angular/cache/
+coverage/

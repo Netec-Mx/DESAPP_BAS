@@ -1,0 +1,61 @@
+:host {
+  display: block;
+  box-sizing: border-box;
+  max-width: 48rem;
+  margin-inline: auto;
+  padding: clamp(1.5rem, 5vw, 3.25rem) clamp(1rem, 6vw, 5rem);
+  border: 3px solid #333;
+  border-radius: 1rem;
+  background: #fff;
+  box-shadow: 7px 7px 0 #ecebea;
+  text-align: center;
+}
+
+.contador-etiqueta {
+  margin: 0 0 0.75rem;
+  color: #454545;
+  font-size: 1.25rem;
+}
+
+.contador-valor {
+  display: inline-block;
+  min-width: 1.6em;
+  margin: 0;
+  padding: 0.12em 0.2em;
+  border: 2px solid #666;
+  border-radius: 0.65rem;
+  background: repeating-linear-gradient(
+    135deg,
+    #fff 0 6px,
+    #deddda 6px 7px
+  );
+  font: 750 clamp(2.75rem, 8vw, 4.75rem) / 1.15 ui-monospace, monospace;
+}
+
+.contador-acciones {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: clamp(0.4rem, 2vw, 0.75rem);
+  margin-top: 1.75rem;
+}
+
+.contador-acciones button {
+  min-height: 3rem;
+  padding: 0.7rem clamp(0.25rem, 2vw, 1rem);
+  border: 2px solid #333;
+  background: #f5f4f3;
+  color: inherit;
+  box-shadow: 4px 4px 0 #deddda;
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.contador-acciones button:hover {
+  background: #eae9e7;
+}
+
+.contador-acciones button:focus-visible {
+  outline: 2px solid #262626;
+  outline-offset: 4px;
+}

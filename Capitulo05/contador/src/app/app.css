@@ -1,0 +1,40 @@
+  font: 750 clamp(2.75rem, 8vw, 4.75rem) / 1.15 ui-monospace, monospace;
+}
+
+.contador-pagina .contador-acciones {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin-top: 1.75rem;
+}
+
+.contador-pagina button {
+  min-height: 3rem;
+  padding: 0.7rem 1rem;
+  border: 2px solid var(--borde);
+  background: #f5f4f3;
+  color: inherit;
+  box-shadow: 4px 4px 0 var(--sombra);
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.contador-pagina button:hover {
+  background: #eae9e7;
+}
+
+.contador-pagina button:focus-visible {
+  outline: 2px solid var(--tinta);
+  outline-offset: 4px;
+}
+
+@media (max-width: 400px) {
+  .contador-pagina .contador-acciones {
+    gap: 0.5rem;
+  }
+
+  .contador-pagina .contador-acciones button {
+    padding-inline: 0.25rem;
+  }
+}
