@@ -127,6 +127,9 @@ button:focus-visible {
 
 Al pulsar el botón, `(click)` ejecuta `seleccionar()` en el hijo. Ese método emite el evento personalizado `seleccionado`.
 
+<br/>
+<br/>
+
 
 ### Paso 3. Recibir el evento y actualizar el mensaje en App
 

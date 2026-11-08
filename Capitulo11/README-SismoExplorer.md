@@ -728,7 +728,7 @@ El listado muestra el total después de aplicar ambos filtros. Una respuesta vac
 <br/> 
 <br/> 
 
-### Paso 12. Vista de detalle y lectura del parámetro de ruta
+### Paso 11. Vista de detalle y lectura del parámetro de ruta
 
 El identificador es una cadena y se obtiene de ActivatedRoute. toSignal() convierte el flujo de parámetros de la ruta en una señal; así el detalle también responde a cambios de identificador.
 
@@ -865,9 +865,9 @@ Los valores nulos se representan como “No disponible”; un valor de 0 se cons
 <br/> 
 <br/> 
 
-### Paso 13. Enrutamiento, componente raíz y arranque
+### Paso 12. Enrutamiento, componente raíz y arranque
 
-### 13.1 Rutas
+### 12.1 Rutas
 
 | Ruta | Comportamiento |
 |---|---|
@@ -905,7 +905,7 @@ loadComponent() permite cargar la vista de cada ruta cuando se necesita.
 
 <br/> 
 
-### 13.2 Componente raíz
+### 12.2 Componente raíz
 
 ### Archivo: src/app/app.component.ts
 
@@ -956,7 +956,7 @@ RouterLink genera los enlaces de navegación y RouterOutlet indica dónde se pre
 
 <br/> 
 
-### 13.3 Punto de entrada
+### 12.3 Punto de entrada
 
 ### Archivo: src/main.ts
 
@@ -974,7 +974,7 @@ Verifica que main.ts importe AppComponent desde app.component.ts y que el nombre
 
 <br/> 
 
-### 13.4 Documento principal
+### 12.4 Documento principal
 
 ### Archivo: src/index.html
 
@@ -998,7 +998,7 @@ Reemplaza su contenido completo por el siguiente código:
 <br/> 
 <br/> 
 
-### Paso 14. Ejecutar y comprobar las dependencias
+### Paso 13. Ejecutar y comprobar las dependencias
 
 Una vez guardados todos los archivos:
 
@@ -1034,7 +1034,7 @@ La matriz siguiente describe las comprobaciones funcionales que deben ejecutarse
 
 <br/> 
 
-### Paso 15. Validación funcional
+### Paso 14. Validación funcional
 
 No utilices un número fijo de resultados o una ubicación predeterminada como condición de aprobación. Los eventos cambian con el tiempo.
 
@@ -1083,7 +1083,7 @@ Completa este registro con tus resultados:
 <br/> 
 <br/> 
 
-### Paso 16. Checklist de conocimientos repasados y entendidos
+### Paso 15. Checklist de conocimientos repasados y entendidos
 
 Marca una casilla cuando puedas explicar el concepto y señalar dónde lo aplicaste. Copiar el código o conseguir una captura no basta para marcar comprensión.
 
@@ -1190,7 +1190,7 @@ Marca una casilla cuando puedas explicar el concepto y señalar dónde lo aplica
 <br/> 
 <br/> 
 
-### Paso 18. Problemas frecuentes
+### Problemas frecuentes
 
 | Síntoma | Revisión o corrección |
 |---|---|
@@ -1210,7 +1210,7 @@ Marca una casilla cuando puedas explicar el concepto y señalar dónde lo aplica
 <br/> 
 <br/> 
 
-### Paso 19. Referencias bibliográficas
+### Referencias bibliográficas
 
 - **Angular: compatibilidad de versiones.** Requisitos de Node.js, TypeScript y RxJS.  
   [https://angular.dev/reference/versions](https://angular.dev/reference/versions)

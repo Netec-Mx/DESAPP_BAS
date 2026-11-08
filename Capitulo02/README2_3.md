@@ -10,6 +10,9 @@ Personalizar el componente raíz de una aplicación Angular 22 modificando sus d
 
 Abre el proyecto hola-mundo en VS Code. Desde una terminal ubicada en la carpeta del proyecto, ejecuta ng serve --open y mantenlo activo durante la práctica. Al guardar cambios, Angular recompila o actualiza la aplicación en el navegador.
 
+<br/>
+<br/>
+
 ### Paso 1. Editar la clase
 
 Reemplaza el contenido de `src/app/app.component.ts` por:
@@ -29,6 +32,8 @@ export class AppComponent {
 ```
 
 <br/>
+<br/>
+
 
 ### Paso 2. Editar la plantilla
 
@@ -42,6 +47,8 @@ Reemplaza `src/app/app.component.html` por:
 ```
 
 <br/>
+<br/>
+
 
 ### Paso 3. Aplicar un estilo mínimo
 
@@ -95,6 +102,8 @@ Antes de ejecutar la aplicación, comprueba que el nombre de la clase del compon
 
  
  <br/>
+ <br/>
+
 
 ### Paso 5. Verificar
 

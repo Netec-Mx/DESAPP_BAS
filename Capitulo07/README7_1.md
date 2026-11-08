@@ -136,6 +136,8 @@ bootstrapApplication(AppComponent, appConfig)
 **Importante:** algunas versiones del CLI generan la clase raíz con el nombre `App`, incluso cuando los archivos se llaman `app.component.*`. En esta práctica la clase se llama `AppComponent`; por eso `main.ts` debe importar y arrancar `AppComponent`. Conservar el `app.config.ts` generado por el CLI.
 
 <br/>
+<br/>
+
 
 ### Paso 3. Crear la plantilla de los pipes integrados
 
@@ -194,6 +196,9 @@ Los parámetros se separan mediante `:`. Los pipes encadenados se ejecutan de iz
 
 Primero se aplica `titlecase`; después `slice` toma los caracteres de los índices 0, 1 y 2. El extremo final 3 no se incluye.
 
+<br/>
+<br/>
+
 
 ### Paso 4. Agregar estilos al laboratorio
 
@@ -244,6 +249,8 @@ npm start -- --open
 Abrir `http://localhost:4200` si el navegador no se abre automáticamente. Mantener la terminal en ejecución. Para otros comandos, abrir una segunda terminal en la misma carpeta; también puede detener el servidor con **Ctrl+C** y volver a iniciarlo después.
 
 <br/>
+<br/>
+
 
 ### Paso 6. Comprobar los resultados iniciales
 

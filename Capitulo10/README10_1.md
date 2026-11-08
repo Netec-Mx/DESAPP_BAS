@@ -413,6 +413,8 @@ app-legacy-header, app-legacy-list, app-standalone-card { display: block; }
 Opcionalmente, cambia el texto de `<title>` en `src/index.html` a `Angular 22 · Laboratorio`, conservando las demás etiquetas del archivo.
 
 <br/>
+<br/>
+
 
 ### Paso 9. Compilar y comprobar el resultado
 

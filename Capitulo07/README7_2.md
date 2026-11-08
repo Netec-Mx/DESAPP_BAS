@@ -360,6 +360,8 @@ El botón cambia un booleano con `mostrarCatalogo = !mostrarCatalogo`.
 Aquí se utiliza una condición booleana explícita. Cuando es falsa, Angular retira la vista del catálogo; no se trata solamente de cambiar su visibilidad con CSS. El arreglo `productos` permanece en el componente.
 
 <br/>
+<br/>
+
 
 ### Paso 7. Mostrar la disponibilidad de cada producto
 
@@ -496,7 +498,7 @@ El resultado esperado es `true`: la tarjeta cambió de posición y conserva el m
 <br/>
 <br/>
 
-### Paso 9. Verificación final
+### Paso 10. Verificación final
 
 Restaurar los valores iniciales: tres productos, catálogo visible y estado pendiente. Compilar desde la segunda terminal:
 
