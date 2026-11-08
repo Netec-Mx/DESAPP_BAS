@@ -7,11 +7,13 @@
 
 Generar un componente standalone, definir una propiedad `nombre`, mostrarla mediante interpolación e integrar el componente en la vista raíz de la aplicación.
 
+
 <br/>
+
+![Proceso Angular Componentes](assets/usuario-component-flow.svg)
+
 <br/>
-![Proceso Angular Componentes](./assets/usuario-component-flow.svg)
-<br/>
-<br/>
+
 
 ## Contexto
 
