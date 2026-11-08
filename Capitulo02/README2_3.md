@@ -98,12 +98,6 @@ Antes de ejecutar la aplicación, comprueba que el nombre de la clase del compon
 
 ### Paso 5. Verificar
 
-Compara tu resultado con la referencia. Tu nombre debe sustituir el texto de ejemplo.
-
-![Referencia del resultado esperado](assets/hola-mundo-result.svg)
-
-Comprueba:
-
 - [ ] La terminal no muestra errores de compilación.
 - [ ] El navegador muestra **Hola Angular**.
 - [ ] Aparece tu nombre mediante interpolación `{{ nombre }}`.
