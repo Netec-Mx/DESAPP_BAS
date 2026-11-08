@@ -45,8 +45,6 @@ El programa se ejecuta en consola mediante llamadas escritas en `main.ts`. La co
 
 ### Paso 1. Preparar la continuación del ejercicio
 
-**Tiempo sugerido: 5 minutos**
-
 Desde PowerShell, entra a `hola-mundo` y copia los archivos fuente y de configuración de la práctica anterior a una carpeta nueva:
 
 ```powershell
@@ -79,8 +77,6 @@ Trabaja en `practica-3-3` para conservar el resultado de la práctica anterior.
 <br/><br/>
 
 ### Paso 2. Completar la clase de lista
-
-**Tiempo sugerido: 12 minutos**
 
 Sustituye el contenido de **`practica-3-3/lista-tareas.ts`** por este código completo. Los métodos de la práctica anterior se conservan; los nuevos son `consultar`, `editar` y `eliminar`:
 
@@ -205,8 +201,6 @@ El contador `#siguienteId` no se reduce al eliminar. Si se crean las tareas `1`,
 
 ### Paso 3. Crear el programa principal
 
-**Tiempo sugerido: 6 minutos**
-
 Sustituye el contenido de **`practica-3-3/main.ts`** por:
 
 ```typescript
@@ -282,8 +276,6 @@ Antes de ejecutar, responde:
 
 ### Paso 4. Compilar, ejecutar y comprobar
 
-**Tiempo sugerido: 9 minutos**
-
 Desde la raíz de `hola-mundo`, ejecuta:
 
 ```powershell
@@ -358,9 +350,7 @@ Si la compilación falla, corrige el error antes de ejecutar Node.js. `noEmitOnE
 
 <br/><br/>
 
-### Paso 5. Validar y entregar
-
-**Tiempo sugerido: 3 minutos**
+### Paso 5. Validar 
 
 - [ ] Se conservan las clases, el enum y los módulos de la práctica 3.2.
 - [ ] CREATE crea tareas con IDs consecutivos y rechaza texto vacío.

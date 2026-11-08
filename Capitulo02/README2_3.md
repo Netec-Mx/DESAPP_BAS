@@ -96,7 +96,7 @@ Antes de ejecutar la aplicación, comprueba que el nombre de la clase del compon
  
  <br/>
 
-### Paso 5. Verificar y entregar
+### Paso 5. Verificar
 
 Compara tu resultado con la referencia. Tu nombre debe sustituir el texto de ejemplo.
 

@@ -544,7 +544,7 @@ Los importes usan `CurrencyPipe` con moneda MXN y el locale predeterminado de An
 | Diferencia @if, @else if y @else. | ☐ |
 | Distingue ocultar la vista de modificar los datos. | ☐ |
 | Selecciona estados con @switch, @case y @default. | ☐ |
-| Compila y entrega las evidencias. | ☐ |
+| Compila  | ☐ |
 
 <br/>
 <br/>

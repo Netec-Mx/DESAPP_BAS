@@ -237,7 +237,7 @@ Conserva `src/main.ts` y `src/app/app.config.ts` como los generó el CLI. El arc
 
 La aplicación muestra el encabezado «Comunicación con @Input()» y una tarjeta con el nombre definido en `App`. El componente `Usuario` recibe ese dato mediante `@Input()` y lo presenta con `{{ nombre }}`.
 
-La comprobación se realiza durante la ejecución. No se solicitan entregas ni capturas.
+La comprobación se realiza durante la ejecución. 
 
 
 <br/><br/>

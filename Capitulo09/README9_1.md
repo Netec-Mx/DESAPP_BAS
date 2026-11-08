@@ -29,7 +29,7 @@
 - Angular CLI 22.x instalado globalmente (`ng version` debe responder sin errores).
 - Visual Studio Code con la extensión **Angular Language Service** activa.
 - Google Chrome con la extensión **Angular DevTools** instalada.
-- Conexión a Internet para instalar dependencias npm (o mirror local configurado por el instructor).
+- Conexión a Internet para instalar dependencias npm.
 
 <br/>
 <br/>

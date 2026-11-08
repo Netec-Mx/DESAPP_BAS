@@ -29,23 +29,6 @@ El programa funciona en consola mediante llamadas escritas en `main.ts`. Los dat
 <br/>
 <br/>
 
-
-## Distribución del tiempo
-
-| Actividad | Minutos |
-| --- | ---: |
-| Preparar carpeta y configuración | 5 |
-| Crear el modelo de tarea | 7 |
-| Implementar la clase de lista | 12 |
-| Crear el programa principal | 5 |
-| Compilar, ejecutar y comprobar | 8 |
-| Validar y entregar | 3 |
-| **Total sugerido** | **40** |
-
-El tiempo supone copiar el código base y analizarlo. Es una propuesta para este alcance ampliado, no una duración contractual confirmada.
-
-<br/><br/>
-
 ## Instrucciones
 
 ### Paso 1. Preparar el ejercicio
@@ -355,7 +338,7 @@ Si la compilación falla, corrige el error antes de ejecutar Node.js. `noEmitOnE
 
 <br/><br/>
 
-### Paso 6. Validar y entregar
+### Paso 6. Validar
 
 - [ ] Los archivos `tarea.ts`, `lista-tareas.ts` y `main.ts` están guardados.
 - [ ] Las clases se exportan y se importan correctamente.

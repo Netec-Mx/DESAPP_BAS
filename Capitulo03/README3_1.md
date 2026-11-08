@@ -161,13 +161,11 @@ npx.cmd --no-install tsc --project .\practica-ts
 3. Observa que TypeScript informa que `string` no puede asignarse a `number`.
 4. Restablece `edad: 28`, guarda y vuelve a compilar y ejecutar con el bloque del paso 3.
 
-Este error intencional no debe permanecer en la entrega.
-
 > Si la compilación falla, no ejecutes Node.js. Puede existir un `fundamentos.js` de una compilación anterior; `noEmitOnError` no elimina ese archivo.
 
 <br/><br/>
 
-### Paso 5. Validar y entregar
+### Paso 5. Validar
 
 - [ ] `fundamentos.ts` conserva los tipos de `Nivel`, `Participante`, el arreglo y la función; las demás expresiones pueden utilizar inferencia.
 - [ ] La última compilación finaliza sin errores.

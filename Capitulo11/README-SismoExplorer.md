@@ -1063,7 +1063,6 @@ No utilices un número fijo de resultados o una ubicación predeterminada como c
 | Teclado | Recorrer la interfaz con Tab y activar botones/enlaces | Es posible operar los controles principales |
 | Compilación | Ejecutar npx ng build | El proceso termina sin errores |
 
-Para comprobar una respuesta vacía o campos nulos de manera controlada, el instructor puede usar una respuesta de prueba mediante las herramientas de sustitución de respuestas del navegador. Conserva la liga real en el código entregado y no esperes a que el servicio público produzca esos casos.
 
 <br/> 
 <br/> 
@@ -1174,29 +1173,6 @@ Marca una casilla cuando puedas explicar el concepto y señalar dónde lo aplica
 - [ ] Puedo localizar y corregir un import o nombre de clase incorrecto.
 - [ ] Puedo demostrar la recuperación después de un error de red.
 - [ ] Puedo ejecutar el proyecto y explicar su estructura sin depender de esta guía.
-
-<br/> 
-<br/> 
-
-### Paso 17. Evidencias y entrega
-
-Entrega una carpeta o archivo ZIP con:
-
-1. Código del proyecto y este README.
-2. package.json y package-lock.json para reproducir las dependencias.
-3. Captura de versiones de Node.js, npm, Angular y CLI.
-4. Captura del listado y de una búsqueda con filtro de magnitud.
-5. Captura de la vista de detalle con su URL.
-6. Captura del estado de error o de una búsqueda sin coincidencias.
-7. Evidencia de npx ng build finalizado correctamente.
-8. Registro de validación y checklist completados.
-
-No incluyas node_modules, dist ni .angular en el ZIP. El proyecto debe poder restaurarse y ejecutarse con:
-
-~~~powershell
-npm ci
-npx ng serve --open
-~~~
 
 <br/> 
 <br/> 

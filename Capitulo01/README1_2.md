@@ -16,7 +16,7 @@ Esta es una actividad introductoria. Reconocerás las responsabilidades y relaci
 
 - Material del capítulo 1 y hallazgos de la práctica 1.1.
 - Navegador web.
-- Una herramienta que ya sepas utilizar para crear figuras y conectores: PowerPoint, Word, diagrams.net o equivalente. También puedes elaborar el mapa a mano y entregar una fotografía legible.
+- Una herramienta que ya sepas utilizar para crear figuras y conectores: PowerPoint, Word, diagrams.net o equivalente. También puedes elaborar el mapa a mano.
 - Documentación oficial indicada en el paso 1.
 
 
@@ -170,12 +170,11 @@ Un mapa legible y corregido, con relaciones que puedes explicar con tus propias 
 <br/>
 <br/>
 
-### Paso 4. Explicar y entregar
+### Paso 4. Explicar
 
 1. Explica tu mapa a un compañero durante un minuto; después escucha su explicación durante otro minuto.
 2. Cada uno señalará una relación que necesite aclaración. Si ambas explicaciones son correctas, identifiquen una relación especialmente útil y expliquen por qué.
 3. Utilicen los dos minutos restantes para ajustar y exportar sus mapas.
-4. Entrega el archivo con el nombre indicado.
 
 Durante tu explicación, responde:
 
@@ -189,11 +188,11 @@ Si no hay un compañero disponible, explica estas relaciones al instructor o rea
 
 ### Resultado esperado
 
-Un mapa entregado que su autor puede interpretar y explicar.
+Un mapa que su autor puede interpretar y explicar.
 
 <br/>
 <br/>
 
 ### Si una fuente o herramienta no está disponible
 
-Utiliza el material del capítulo o una fuente oficial alternativa y registra la que consultaste. Si la herramienta de diagramación falla, trabaja en una hoja y entrega una fotografía legible. Consulta con el instructor las relaciones que no puedas verificar.
+Utiliza el material del capítulo o una fuente oficial alternativa y registra la que consultaste. Si la herramienta de diagramación falla, trabaja en una hoja. Consulta con el instructor las relaciones que no puedas verificar.

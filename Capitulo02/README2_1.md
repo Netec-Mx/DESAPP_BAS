@@ -136,7 +136,7 @@ Comprueba:
 
 <br/><br/>
 
-## Validación y entrega
+## Validación
 
 1. Ajusta el tamaño de PowerShell para que las cuatro verificaciones sean legibles.
 2. Oculta nombres de usuario, rutas personales o información sensible si aparecen.

@@ -269,7 +269,7 @@ Cada dirección se establece de forma explícita:
 | Padre → hijo | `@Input()` proporciona el nombre de cada tarjeta. |
 | Hijo → padre | `@Output()` comunica la selección con `EventEmitter<string>`. |
 
-La verificación se realiza durante la ejecución. No se solicitan entregas ni capturas.
+La verificación se realiza durante la ejecución. 
 
 <br/>
 <br/>

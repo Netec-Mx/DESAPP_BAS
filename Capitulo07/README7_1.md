@@ -501,7 +501,7 @@ No se requiere ejecutar pruebas unitarias en esta práctica; se omitieron sus ar
 | Implementa e importa el pipe standalone `resumen`. | ☐ |
 | Maneja texto corto y vacío sin errores. | ☐ |
 | Conserva los datos originales. | ☐ |
-| Compila el proyecto y entrega las evidencias. | ☐ |
+| Compila el proyecto | ☐ |
 
 <br/>
 <br/>
