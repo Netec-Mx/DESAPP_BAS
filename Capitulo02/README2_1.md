@@ -115,9 +115,8 @@ Angular Language Service proporciona asistencia para templates Angular. No es ne
 
 ### Paso 6. Verificar el entorno completo
 
-Ejecuta los comandos de la siguiente imagen y compara las líneas clave, no los números exactos de parche.
+Ejecuta los comandos siguientes y compara las líneas clave, no los números exactos de parche.
 
-![Referencia visual de la verificación final](assets/environment-verification.svg)
 
 ```powershell
 node --version

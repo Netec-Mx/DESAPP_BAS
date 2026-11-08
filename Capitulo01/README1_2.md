@@ -194,6 +194,6 @@ Un mapa entregado que su autor puede interpretar y explicar.
 <br/>
 <br/>
 
-## Si una fuente o herramienta no está disponible
+### Si una fuente o herramienta no está disponible
 
 Utiliza el material del capítulo o una fuente oficial alternativa y registra la que consultaste. Si la herramienta de diagramación falla, trabaja en una hoja y entrega una fotografía legible. Consulta con el instructor las relaciones que no puedas verificar.

@@ -1,6 +1,6 @@
 # Práctica 3.1 Programación con TypeScript
 
-![Flujo de escritura, compilación y ejecución](assets/typescript-flow.png)
+![Flujo de escritura, compilación y ejecución](assets/typescript-flow.svg)
 
 <br/>
 <br/>
@@ -219,25 +219,25 @@ Para agregar al final de la **práctica 3.1**, estas referencias se relacionan d
 
 **1. TypeScript Playground — practicar en línea**  
 [https://www.typescriptlang.org/play/](https://www.typescriptlang.org/play/)  
-Editor oficial para escribir TypeScript, observar el JavaScript generado, detectar errores y ejecutar ejemplos desde el navegador. Puedes pegar el programa de participantes y experimentar con sus tipos. [typescriptlang.org](https://www.typescriptlang.org/play/?utm_source=chatgpt.com)
+Editor oficial para escribir TypeScript, observar el JavaScript generado, detectar errores y ejecutar ejemplos desde el navegador. Puedes pegar el programa de participantes y experimentar con sus tipos. [typescriptlang.org](https://www.typescriptlang.org/play/)
 
 **2. Fundamentos de TypeScript**  
 [https://www.typescriptlang.org/docs/handbook/2/basic-types.html](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)  
-Explica la comprobación de tipos, el compilador `tsc`, la generación de JavaScript y el comportamiento de `noEmitOnError`. [The Basics](https://www.typescriptlang.org/docs/handbook/2/basic-types.html?utm_source=chatgpt.com)
+Explica la comprobación de tipos, el compilador `tsc`, la generación de JavaScript y el comportamiento de `noEmitOnError`. [The Basics](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
 
 **3. Tipos de uso cotidiano**  
 [https://www.typescriptlang.org/docs/handbook/2/everyday-types.html](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)  
-Referencia para tipos básicos, arreglos, objetos, funciones, uniones y alias de tipos. Ayuda a comprender `Nivel`, `Participante` y `Participante[]`. [Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html?utm_source=chatgpt.com)
+Referencia para tipos básicos, arreglos, objetos, funciones, uniones y alias de tipos. Ayuda a comprender `Nivel`, `Participante` y `Participante[]`. [Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
 
 **4. Funciones y desestructuración de parámetros**  
 [https://www.typescriptlang.org/docs/handbook/2/functions.html](https://www.typescriptlang.org/docs/handbook/2/functions.html)  
-Profundiza en las funciones y contiene una sección sobre desestructuración de parámetros, como la utilizada en `describir`. [More on Functions](https://www.typescriptlang.org/docs/handbook/2/functions.html?utm_source=chatgpt.com)
+Profundiza en las funciones y contiene una sección sobre desestructuración de parámetros, como la utilizada en `describir`. [More on Functions](https://www.typescriptlang.org/docs/handbook/2/functions.html)
 
 **5. Referencia de configuración: TSConfig**  
 [https://www.typescriptlang.org/tsconfig/](https://www.typescriptlang.org/tsconfig/)  
-Documenta las opciones del archivo `tsconfig.json`, incluidas `strict`, `target`, `outDir` y `noEmitOnError`. [Docs on every TSConfig option](https://www.typescriptlang.org/tsconfig/?utm_source=chatgpt.com)
+Documenta las opciones del archivo `tsconfig.json`, incluidas `strict`, `target`, `outDir` y `noEmitOnError`. [Docs on every TSConfig option](https://www.typescriptlang.org/tsconfig/)
 
 **6. Arreglos de JavaScript — MDN, en español**  
 [https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array)  
-Explica los arreglos y sus métodos. Para esta práctica, conviene consultar especialmente `filter`, que selecciona elementos, y `map`, que transforma sus valores. [MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array?utm_source=chatgpt.com)
+Explica los arreglos y sus métodos. Para esta práctica, conviene consultar especialmente `filter`, que selecciona elementos, y `map`, que transforma sus valores. [MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array)
 

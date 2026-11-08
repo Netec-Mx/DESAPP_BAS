@@ -167,16 +167,16 @@ Mantén esta terminal abierta. Para detener el servidor al finalizar utiliza `Ct
 
 ## Bibliografía adicional
 
-- [https://angular.dev/reference/configs/file-structure](https://angular.dev/reference/configs/file-structure) — **Lectura inicial recomendada.** Describe las carpetas y archivos del proyecto: `src/`, `public/`, `main.ts`, `app.config.ts`, `angular.json` y los archivos del componente raíz. [Angular](https://angular.dev/reference/configs/file-structure?utm_source=chatgpt.com)
+- [https://angular.dev/reference/configs/file-structure](https://angular.dev/reference/configs/file-structure) — **Lectura inicial recomendada.** Describe las carpetas y archivos del proyecto: `src/`, `public/`, `main.ts`, `app.config.ts`, `angular.json` y los archivos del componente raíz. [Angular](https://angular.dev/reference/configs/file-structure)
 
-- [https://angular.dev/guide/components](https://angular.dev/guide/components) — Explica cómo se relacionan la clase TypeScript, la plantilla HTML y los estilos CSS de un componente. [Angular](https://angular.dev/guide/components?utm_source=chatgpt.com)
+- [https://angular.dev/guide/components](https://angular.dev/guide/components) — Explica cómo se relacionan la clase TypeScript, la plantilla HTML y los estilos CSS de un componente. [Angular](https://angular.dev/guide/components)
 
-- [https://angular.dev/api/core/ApplicationConfig](https://angular.dev/api/core/ApplicationConfig) — Referencia para comprender el objeto exportado desde `app.config.ts` y su propiedad `providers`. [Angular](https://angular.dev/api/core/ApplicationConfig?utm_source=chatgpt.com)
+- [https://angular.dev/api/core/ApplicationConfig](https://angular.dev/api/core/ApplicationConfig) — Referencia para comprender el objeto exportado desde `app.config.ts` y su propiedad `providers`. [Angular](https://angular.dev/api/core/ApplicationConfig)
 
-- [https://angular.dev/api/platform-browser/bootstrapApplication](https://angular.dev/api/platform-browser/bootstrapApplication) — Explica cómo `main.ts` inicia una aplicación standalone utilizando el componente raíz y la configuración de la aplicación. [Angular](https://angular.dev/api/platform-browser/bootstrapApplication?utm_source=chatgpt.com)
+- [https://angular.dev/api/platform-browser/bootstrapApplication](https://angular.dev/api/platform-browser/bootstrapApplication) — Explica cómo `main.ts` inicia una aplicación standalone utilizando el componente raíz y la configuración de la aplicación. [Angular](https://angular.dev/api/platform-browser/bootstrapApplication)
 
-- [https://angular.dev/reference/configs/workspace-config](https://angular.dev/reference/configs/workspace-config) — Describe `angular.json`: configuración de compilación, servidor de desarrollo, pruebas, estilos y recursos estáticos. [Angular](https://angular.dev/reference/configs/workspace-config?utm_source=chatgpt.com)
+- [https://angular.dev/reference/configs/workspace-config](https://angular.dev/reference/configs/workspace-config) — Describe `angular.json`: configuración de compilación, servidor de desarrollo, pruebas, estilos y recursos estáticos. [Angular](https://angular.dev/reference/configs/workspace-config)
 
-- [https://angular.dev/reference/configs/npm-packages](https://angular.dev/reference/configs/npm-packages) — Explica la función de `package.json` y los principales paquetes que utiliza un proyecto Angular. [Angular](https://angular.dev/reference/configs/npm-packages?utm_source=chatgpt.com)
+- [https://angular.dev/reference/configs/npm-packages](https://angular.dev/reference/configs/npm-packages) — Explica la función de `package.json` y los principales paquetes que utiliza un proyecto Angular. [Angular](https://angular.dev/reference/configs/npm-packages)
 
-- [https://angular.dev/reference/configs/angular-compiler-options](https://angular.dev/reference/configs/angular-compiler-options) — Ayuda a comprender las opciones de Angular dentro de `tsconfig.json`, incluida la comprobación estricta de las plantillas. [Angular](https://angular.dev/reference/configs/angular-compiler-options?utm_source=chatgpt.com)
+- [https://angular.dev/reference/configs/angular-compiler-options](https://angular.dev/reference/configs/angular-compiler-options) — Ayuda a comprender las opciones de Angular dentro de `tsconfig.json`, incluida la comprobación estricta de las plantillas. [Angular](https://angular.dev/reference/configs/angular-compiler-options)
