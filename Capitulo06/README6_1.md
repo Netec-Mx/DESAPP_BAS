@@ -1,4 +1,5 @@
 # Práctica 6.1 Comunicación del padre al hijo con @Input()
+<!-- {% raw %} -->
 
 <br/>
 <br/>
@@ -301,3 +302,4 @@ Al terminar, detén el servidor con `Ctrl+C`.
 - Angular CLI. Creación de proyectos: https://angular.dev/cli/new
 - Angular CLI. Generación de componentes: https://angular.dev/cli/generate/component
 
+<!-- {% endraw %} -->

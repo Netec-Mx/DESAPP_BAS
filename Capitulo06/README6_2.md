@@ -1,3 +1,4 @@
+<!-- {% raw %} -->
  
 # Práctica 6.2 Comunicando un componente hijo con su componente padre utilizando @Output()
 
@@ -353,3 +354,4 @@ Al terminar, detén el servidor con `Ctrl+C`.
 - Angular. Escucha de eventos: https://angular.dev/guide/templates/event-listeners
 - Angular. Señales: https://angular.dev/guide/signals
 
+<!-- {% endraw %} -->

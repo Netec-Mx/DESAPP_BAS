@@ -1,4 +1,5 @@
 # Práctica 9.1 Implementando ruteo en Angular 22
+<!-- {% raw %} -->
 
 <br/>
 <br/>
@@ -1296,3 +1297,5 @@ En este laboratorio implementaste un sistema de ruteo en Angular. Los conceptos 
 - **Redirecciones:** [https://angular.dev/guide/routing/redirecting-routes](https://angular.dev/guide/routing/redirecting-routes)
 
 - **Inspección de rutas en DevTools:** [https://angular.dev/tools/devtools/router](https://angular.dev/tools/devtools/router)
+
+<!-- {% endraw %} -->

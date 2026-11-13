@@ -1,4 +1,5 @@
 # Práctica 4.2 Crear un componente que muestre los datos de una persona en una página web como son nombre, domicilio, teléfono y correo electrónico
+<!-- {% raw %} -->
 
 <br/>
 <br/>
@@ -517,3 +518,5 @@ La ficha necesita mostrar también la **ocupación** de la persona. Amplía tu s
 - [Generación de componentes](https://angular.dev/cli/generate/component): opciones de generación y nombres de archivos.
 - [Componentes de Angular](https://angular.dev/essentials/components): estructura, configuración e integración de componentes.
 - [Interpolación y enlaces en plantillas](https://angular.dev/guide/templates/binding): presentación de expresiones del componente como texto.
+
+<!-- {% endraw %} -->

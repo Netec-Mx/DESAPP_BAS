@@ -1,4 +1,5 @@
 # Práctica 7.1 Pipes integrados y creación de un pipe personalizado
+<!-- {% raw %} -->
 
 <br/>
 <br/>
@@ -143,7 +144,6 @@ bootstrapApplication(AppComponent, appConfig)
 
 Reemplazar todo `src/app/app.component.html` por:
 
-{% raw %}
 ```html
 <main>
   <header>
@@ -180,7 +180,6 @@ Reemplazar todo `src/app/app.component.html` por:
   </section>
 </main>
 ```
-{% endraw %}
 
 
 <br/>
@@ -554,3 +553,5 @@ Si el texto no se recorta, no debe agregarse el sufijo. Mantener los casos de te
 - Generar un pipe: https://angular.dev/cli/generate/pipe
 - Compatibilidad de versiones: https://angular.dev/reference/versions
 - CurrencyPipe: https://angular.dev/api/common/CurrencyPipe
+
+<!-- {% endraw %} -->

@@ -1,4 +1,5 @@
 # Práctica 5.1 Ciclo de vida de un componente en Angular
+<!-- {% raw %} -->
 
 <br/>
 
@@ -223,3 +224,5 @@ Detén el servidor con `Ctrl+C`.
 - **Angular · Eventos en plantillas.** Muestra cómo enlazar el evento `(click)` de un botón con un método del componente, como `alternarComponente()`. [https://angular.dev/guide/templates/event-listeners](https://angular.dev/guide/templates/event-listeners)
 
 - **MDN Web Docs · Temporizadores del navegador.** `setInterval()` ejecuta una función repetidamente con un intervalo expresado en milisegundos. `clearInterval()` utiliza el identificador devuelto para cancelar el temporizador, como se hace en `ngOnDestroy`. [https://developer.mozilla.org/es/docs/Web/API/Window/setInterval](https://developer.mozilla.org/es/docs/Web/API/Window/setInterval) · [https://developer.mozilla.org/es/docs/Web/API/Window/clearInterval](https://developer.mozilla.org/es/docs/Web/API/Window/clearInterval)
+
+<!-- {% endraw %} -->

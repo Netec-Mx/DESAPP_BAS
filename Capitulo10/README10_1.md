@@ -1,4 +1,5 @@
 # Práctica 10.1  Manejo de módulos
+<!-- {% raw %} -->
 
 <br/>
 
@@ -547,3 +548,5 @@ La redacción exacta del diagnóstico puede variar entre versiones del compilado
 
 - **Compatibilidad de versiones:** requisitos de Node.js, TypeScript y RxJS.  
   https://angular.dev/reference/versions
+
+<!-- {% endraw %} -->

@@ -1,4 +1,5 @@
 # Práctica 2.3 Personalización Inicial
+<!-- {% raw %} -->
 
 ## Objetivo
 
@@ -150,3 +151,5 @@ Antes de ejecutar la aplicación, comprueba que el nombre de la clase del compon
 - https://angular.dev/guide/components/styling — Explica cómo se asocian los estilos CSS al componente mediante styleUrl. 
 
 - https://angular.dev/cli/serve — Referencia de ng serve, actualización al guardar y opciones como --open y --port. 
+
+<!-- {% endraw %} -->

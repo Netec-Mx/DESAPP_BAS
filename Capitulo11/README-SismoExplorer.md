@@ -1,4 +1,5 @@
 # Proyecto final · SismoExplorer
+<!-- {% raw %} -->
 
 <br/> 
 <br/> 
@@ -1254,3 +1255,4 @@ Marca una casilla cuando puedas explicar el concepto y señalar dónde lo aplica
 - **Bootstrap 5.3.** Cuadrícula, componentes y utilidades visuales.  
   [https://getbootstrap.com/docs/5.3/getting-started/introduction/](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
+<!-- {% endraw %} -->

@@ -1,4 +1,5 @@
 # Práctica 4.1 Crear un componente simple que muestre el nombre de un usuario
+<!-- {% raw %} -->
 
 <br/>
 <br/>
@@ -354,4 +355,4 @@ La actualización que observas al guardar corresponde a la recompilación o reca
 
 - [Interpolación y enlaces en plantillas](https://angular.dev/guide/templates/binding): presentación de valores del componente en la vista.
 
-
+<!-- {% endraw %} -->

@@ -1,4 +1,5 @@
 # Práctica 8.1 Lista de tareas: servicios y proveedores
+<!-- {% raw %} -->
 
 <br/>
 
@@ -1250,3 +1251,5 @@ Detén el servidor con Ctrl+C. Conserva el proyecto para futuras prácticas. No 
 
 - **Pruebas de Angular:** entorno de pruebas y Vitest.  
   https://angular.dev/guide/testing
+
+<!-- {% endraw %} -->

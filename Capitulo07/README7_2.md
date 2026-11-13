@@ -1,4 +1,5 @@
 # Práctica 7.2 Uso de @if, @for y @switch
+<!-- {% raw %} -->
 
 <br/><br/>
 
@@ -613,3 +614,5 @@ npm run build
 ```
 
 Utilizar `npm ci` reproduce las versiones registradas en `package-lock.json`. El proyecto resuelto sirve como referencia; para desarrollar la práctica, comenzar desde el paso 1.
+
+<!-- {% endraw %} -->
