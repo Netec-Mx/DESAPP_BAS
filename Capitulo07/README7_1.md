@@ -143,6 +143,7 @@ bootstrapApplication(AppComponent, appConfig)
 
 Reemplazar todo `src/app/app.component.html` por:
 
+{% raw %}
 ```html
 <main>
   <header>
@@ -179,6 +180,8 @@ Reemplazar todo `src/app/app.component.html` por:
   </section>
 </main>
 ```
+{% endraw %}
+
 
 <br/>
 
