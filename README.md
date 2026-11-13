@@ -65,7 +65,7 @@ Personaliza el componente raíz del proyecto `hola-mundo` en Angular 22. Define 
 
 ### Capítulo 3. TypeScript Essentials (Enfocados en HTML, CSS, JavaScript)
 
-#### [Práctica 3.1 Programación con TypeScript](Capitulo03/README.md#programación-con-typescript)
+#### [Práctica 3.1 Programación con TypeScript](Capitulo03/README3_1.md)
  
 Escribe un programa en TypeScript que filtre a los participantes activos y muestre su nivel, su categoría de edad y el total de activos. Usa arreglos y funciones tipados, desestructuración y los métodos `filter` y `map`. Compila el programa a JavaScript, ejecútalo con Node.js y comprueba cómo el compilador detecta un error de tipos antes de corregirlo y volver a ejecutar el programa.
 
@@ -73,7 +73,7 @@ Escribe un programa en TypeScript que filtre a los participantes activos y muest
 
 <br/>
 
-#### [Práctica 3.2 Creacion de Lista de tareas](Capitulo03/README3_1.md)
+#### [Práctica 3.2 Creacion de Lista de tareas](Capitulo03/README3_2.md)
 
 Construye en TypeScript una lista de tareas que funcione en consola y mantenga sus datos en memoria. Usa clases y módulos para organizar el código, un `enum` para representar los estados y una tupla para devolver el total de tareas y la cantidad de pendientes. Compila y ejecuta el programa con Node.js para comprobar que puedes agregar tareas, rechazar descripciones vacías, marcar una tarea como completada y consultar las pendientes.
 
@@ -81,7 +81,7 @@ Construye en TypeScript una lista de tareas que funcione en consola y mantenga s
 
 <br/>
 
-#### [Práctica 3.3 CRUD en memoria](Capitulo03/README3_2.md)
+#### [Práctica 3.3 CRUD en memoria](Capitulo03/README3_3.md)
 
 Amplía la lista de tareas de la práctica anterior para completar las operaciones CRUD en TypeScript. Además de agregar y listar tareas, podrás consultarlas por su identificador, editar su descripción, marcarlas como completadas y eliminarlas. Compila el programa y ejecútalo con Node.js para comprobar que las operaciones manejan correctamente las descripciones vacías y los identificadores inexistentes, y que las tareas conservan su identificador aunque cambien de posición en el arreglo.
 
@@ -100,7 +100,7 @@ Genera con Angular CLI un componente standalone de usuario en el proyecto `hola-
 
 <br/>
 
-#### [Práctica 4.2. Crear un componente que muestre los datos de una persona en una página web como son nombre, domicilio, teléfono y correo electrónico.](Capitulo04/README4_1.md)
+#### [Práctica 4.2. Crear un componente que muestre los datos de una persona en una página web como son nombre, domicilio, teléfono y correo electrónico.](Capitulo04/README4_2.md)
 
 
 Crea el proyecto `ficha-persona` en Angular 22 y genera un componente standalone para mostrar una ficha de contacto. Agrupa el nombre, el domicilio, el teléfono y el correo electrónico en un objeto TypeScript y presenta sus valores mediante interpolación en una tarjeta con estilos CSS. Integra la tarjeta en la vista raíz y, como minireto, agrega el campo de ocupación y comprueba que aparezca en el navegador.
